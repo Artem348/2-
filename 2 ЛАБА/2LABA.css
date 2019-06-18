@@ -1,0 +1,433 @@
+body{
+    font-family: Arial, SansSerif;
+    padding: 0;
+    margin: 0 auto;
+    zoom: 70%;
+}
+.BC{
+    height: 2000px;
+    width: 2000px;
+    padding: 0;
+    margin: 0 auto;
+}
+.container-2{
+    display: flex;
+    justify-content: center;
+}
+.container-2 div{
+    padding: 0;
+}
+.container-1 div{
+    padding: 0;
+}
+container-3{
+     display: flex;
+     justify-content: center;
+ }
+.container-3 div{
+    padding: 0;
+}
+container-4{
+    display: flex;
+    justify-content: center;
+}
+.container-4 div{
+    padding: 0;
+}
+container-5{
+    display: flex;
+    justify-content: center;
+}
+.container-5 div{
+    padding: 0;
+}
+container-6{
+    display: flex;
+    justify-content: center;
+}
+.container-6 div{
+    padding: 0;
+}
+container-7{
+    display: flex;
+    justify-content: center;
+}
+.container-7 div{
+    padding: 0;
+}
+.box-1{
+
+
+
+}
+
+.box-3{
+    margin-right: 135px;
+}
+.nav1{
+    justify-content: center;
+}
+.nav2{
+    float: left;
+}
+.Boxxx{
+    display: flex;
+    justify-content: center;
+  background-image: url("img/вставка.jpg");
+
+}
+.menu{
+    display: block;
+    justify-content: center;
+
+}
+.menu li{
+    float: left;
+    display: block;
+    padding-right: 40px;
+    margin-top: 28px;
+    margin-bottom: 25px;
+    justify-content: center;
+
+
+}
+.menu li a {
+    color: #ffffff;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 20px;
+    justify-content: center;
+}
+.menu2{
+    padding: 0;
+    margin: 0;
+    display: block;
+}
+.menu2 li{
+    float: left;
+    display: block;
+    margin-top: 28px;
+    padding-right: 15px;
+}
+.menu2 li a {
+    color: #989e9e;
+    text-decoration: none;
+    font-size: 18px;
+}
+.Square-1{
+
+}
+
+.Text{
+   
+}
+.box-c2{
+    background: url("img/blue.jpg") no-repeat center top / cover;
+    height: 1000px;
+    width: 2000px;
+    margin: 0;
+}
+
+.RP{
+    
+}
+.P{
+position: absolute;
+    margin-top: 700px;
+    margin-left: 890px;
+}
+.T{
+    position: absolute;
+    margin-top: 210px;
+    margin-left: 675px;
+}
+.TG{
+    
+}
+.TB{
+    
+}
+.GrayBox{
+    background-image: url("img/серая.png");
+    height: 400px;
+    width: 2000px;
+    margin: 0;
+}
+.WhiteBox{
+    background:white;
+    height: 750px;
+    width: 2000px;
+    margin: 0;
+}
+.BlueBox{
+    background-image: url("img/Layer 9.png");
+    height: 775px;
+    width: 2000px;
+    margin: 0;
+}
+.WhiteBox2{
+    background:white;
+    height: 172px;
+    width: 2000px;
+    margin: 0;
+}
+.P1{
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 220px;
+}
+.P1T{
+    position: absolute;
+    margin-top: 320px;
+    margin-left: 400px;
+}
+.TG2{
+    position: absolute;
+    color: #989e9e;
+    text-decoration: none;
+    margin-top: 395px;
+    margin-left: 400px;
+}
+.TB2{
+    position: absolute;
+    color: #1a54e7;
+    text-decoration: none;
+    margin-top: 395px;
+    margin-left: 520px;
+}
+.Trips{
+    position: absolute;
+    margin-top: 230px;
+    margin-left: 400px;
+}
+.P2{
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 810px;
+}
+.P2T{
+    position: absolute;
+    margin-top: 320px;
+    margin-left: 1025px;
+}
+.Tech{
+    position: absolute;
+    margin-top: 230px;
+    margin-left: 1025px;
+}
+.TG3{
+    position: absolute;
+    color: #989e9e;
+    text-decoration: none;
+    margin-top: 395px;
+    margin-left: 1025px;
+}
+.TB3{
+    position: absolute;
+    color: #1a54e7;
+    text-decoration: none;
+    margin-top: 395px;
+    margin-left: 1150px;
+}
+.Cum{
+    position: absolute;
+    margin-top: 85px;
+    margin-left: 830px;
+}
+.N{
+    position: absolute;
+    margin-top: 160px;
+    margin-left: 730px;
+    z-index: 1;
+}
+.BRR{
+   
+}
+.SU{
+    position: absolute;
+    margin-top: 83px;
+    margin-left: 417px;
+    z-index: 1;
+}
+.P1-2{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 400px;
+}
+.P1T-2{
+    position: absolute;
+    margin-top: 320px;
+    margin-left: 400px;
+}
+.TG2-2{
+    position: absolute;
+    color: #989e9e;
+    text-decoration: none;
+    margin-top: 395px;
+    margin-left: 400px;
+}
+.TB2-2{
+    position: absolute;
+    color: #1a54e7;
+    text-decoration: none;
+    margin-top: 395px;
+    margin-left: 520px;
+}
+.Trips-2{
+    position: absolute;
+    margin-top: 240px;
+    margin-left: 400px;
+}
+.P2-2{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 1025px;
+}
+.P2T-2{
+    position: absolute;
+    margin-top: 320px;
+    margin-left: 1025px;
+}
+.Tech-2{
+    position: absolute;
+    margin-top: 240px;
+    margin-left: 1025px;
+}
+.TG3-2{
+    position: absolute;
+    color: #989e9e;
+    text-decoration: none;
+    margin-top: 395px;
+    margin-left: 1025px;
+}
+.TB3-2{
+    position: absolute;
+    color: #1a54e7;
+    text-decoration: none;
+    margin-top: 395px;
+    margin-left: 1150px;
+}
+.P3{
+    position: absolute;
+   width: 2000px;
+}
+.Proin{
+    position: absolute;
+    margin-top: 330px;
+    margin-left: 525px;
+}
+.Trips-3{
+    position: absolute;
+    margin-top: 390px;
+    margin-left: 404px;
+}
+.TG3-3{
+    position: absolute;
+    color: #989e9e;
+    text-decoration: none;
+    margin-top: 410px;
+    margin-left: 1385px;
+}
+.TB3-3{
+    position: absolute;
+    color: #1a54e7;
+    text-decoration: none;
+    margin-top: 410px;
+    margin-left: 1505px;
+}
+.P5{
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 1410px;
+}
+.P7{
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 350px;
+}
+.P8{
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 940px;
+}
+.P9{
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 1540px;
+}
+.P10{
+    position: absolute;
+    margin-top: 190px;
+    margin-left: 800px;
+}
+.P11{
+    position: absolute;
+    margin-top: 315px;
+    margin-left: 470px;
+}
+.P12{
+    position: absolute;
+    margin-top: 460px;
+    margin-left: 1050px;
+}
+.P13{
+    position: absolute;
+    margin-top: 330px;
+    margin-left: 1170px;
+}
+.P14{
+    position: absolute;
+    margin-top: 370px;
+    margin-left: 1370px;
+}
+.P15{
+    position: absolute;
+    margin-top: 415px;
+    margin-left: 1410px;
+}
+.O{
+      position: absolute;
+    margin-top: 560px;
+    margin-left: 880px;
+    z-index: 1;
+}
+
+.inp{
+    position: absolute;
+    width: 1000px;
+    height: 110px;
+    margin-top: 380px;
+    margin-left: 500px;
+    z-index: 2;
+	
+
+
+}
+.inp1{
+    position: absolute;
+    font-size: 15px;
+    margin-top: 290px;
+    margin-left: 1180px;
+    z-index: 2;
+    width: 320px;
+    height: 56px;
+}
+.inp2{
+    position: absolute;
+    font-size: 15px;
+    margin-top: 290px;
+    margin-left: 811px;
+    z-index: 2;
+    width: 320px;
+    height: 56px;
+}
+.inp3{
+    position: absolute;
+    font-size: 15px;
+    margin-top: 290px;
+    margin-left: 500px;
+    z-index: 2;
+    width: 272px;
+    height: 56px;
+}
+

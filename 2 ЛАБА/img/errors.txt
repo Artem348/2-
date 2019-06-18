@@ -1,0 +1,2 @@
+[2019-06-14 21:38:39] layer "Email Address  johnsmith@company.com youoffice@company.com": Unsupported extension: com
+[2019-06-14 21:38:39] layer "psd.in.ua": Unsupported extension: ua
